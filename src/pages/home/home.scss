@@ -1,3 +1,10 @@
-page-home {
-
+ion-content {
+    text-align: right;
 }
+ion-content.background {
+    background: url('../assets/imgs/dr_seuss.png') no-repeat;
+    background-color: lightgreen;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+} 
